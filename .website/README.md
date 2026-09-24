@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - puzzle
 directors_cut: https://serverboi.org/js13k-2025/
 post: https://serverboi.org/posts/Js13k-2025-Post-Mortem/
 # See github.com/js13kGames/hello-world for supported frontmatter
